@@ -1,0 +1,3 @@
+1. Tuliskan cara melakukan kompilasi pada bahasa pemograman Java!
+
+2. Jelaskan perbedaan antara Programmer, Compiler, dan Interpreter! Berikan contoh bahasa pemograman yang termasuk Compiler dan juga Interpreter

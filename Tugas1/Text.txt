@@ -1,0 +1,5 @@
+1. float/double
+2. string
+3. integer
+4. boolean 
+5. string maybe??

@@ -3,7 +3,6 @@
   Keluaran berupa sebuah bilangan bulat hasil penjumlahan
 */
 
-package Latihan2;
 import java.util.Scanner;
 
 public class No6 {

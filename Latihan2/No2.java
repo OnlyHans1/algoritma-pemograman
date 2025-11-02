@@ -1,13 +1,14 @@
-/* Buatlah program dalam bahasa Java yang menampilkan beberapa statistik penting sebagai berikut
-   Hasil yang diharapkan:
-   * Jarak Matahari ke bumi: 150,000,000
-   * Peluang memenangkan lotre: 1.235E-7
-   * Jumlah penduduk dunia: 6,973,783,433
-   * Apakah data di atas sudah benar? true
+/* 
+    Buatlah program dalam bahasa Java yang menampilkan beberapa statistik penting sebagai berikut
+    Hasil yang diharapkan:
+    * Jarak Matahari ke bumi: 150,000,000
+    * Peluang memenangkan lotre: 1.235E-7
+    * Jumlah penduduk dunia: 6,973,783,433
+    * Apakah data di atas sudah benar? true
    
-   Pastikan untuk menggunakan tipe data yang tepat agar hasil yang ditampilkan sesuai
+    Pastikan untuk menggunakan tipe data yang tepat agar hasil yang ditampilkan sesuai
 */
-package Latihan2;
+
 
 public class No2 {
     public static void main(String[] args) {

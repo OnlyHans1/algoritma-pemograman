@@ -12,7 +12,6 @@
    3. 1 Tahun = 12 Bulan
  */
 
-package Latihan2;
 import java.util.Scanner;
 
 public class No8 {

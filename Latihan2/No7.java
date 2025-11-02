@@ -7,7 +7,7 @@
    Catatan: Masukan selalu dalam huruf kecil
 */
 
-package Latihan2;
+
 import java.util.Scanner;
 
 public class No7 {

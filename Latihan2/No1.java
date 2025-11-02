@@ -1,11 +1,11 @@
-/* Buatlah program dalam Bahasa Java untuk mencetak karakter yang dimasukkan.
-   Masukkan berupa sebuah karakter.
-   Keluaran berupa sebuah karakter sebagaimana contoh.
-
-   Petunjuk: Gunakan Scanner.next().charAt(0) untuk pembacaan masukan dan System.out.printf() untuk pencetakan
+/* 
+    Buatlah program dalam Bahasa Java untuk mencetak karakter yang dimasukkan.
+    Masukkan berupa sebuah karakter.
+    Keluaran berupa sebuah karakter sebagaimana contoh.
+    Petunjuk: Gunakan Scanner.next().charAt(0) untuk pembacaan masukan dan System.out.printf() untuk pencetakan
  */
 
-package Latihan2;
+
 import java.util.Scanner;
 
 public class No1 {

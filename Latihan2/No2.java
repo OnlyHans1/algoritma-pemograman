@@ -8,7 +8,7 @@
    
     Pastikan untuk menggunakan tipe data yang tepat agar hasil yang ditampilkan sesuai
 */
-
+package Latihan2;
 
 public class No2 {
     public static void main(String[] args) {

@@ -2,7 +2,7 @@
    Masukan berupa boolean true atau false
    Keluaran berupa boolean true atau false
 */
-
+package Latihan2;
 
 import java.util.Scanner;
 

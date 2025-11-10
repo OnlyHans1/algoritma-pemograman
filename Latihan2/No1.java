@@ -4,7 +4,7 @@
     Keluaran berupa sebuah karakter sebagaimana contoh.
     Petunjuk: Gunakan Scanner.next().charAt(0) untuk pembacaan masukan dan System.out.printf() untuk pencetakan
  */
-
+package Latihan2;
 
 import java.util.Scanner;
 

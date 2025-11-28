@@ -2,6 +2,7 @@
   Masukan berupa 4 bilangan bulat
   Keluaran berupa sebuah bilangan bulat hasil penjumlahan
 */
+package Latihan2;
 
 import java.util.Scanner;
 

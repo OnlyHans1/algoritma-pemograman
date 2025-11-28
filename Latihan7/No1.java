@@ -3,6 +3,7 @@
     Masukan terdiri dari 10 huruf yang berbeda-beda. 
     Keluaran berupa nilai boolean true jika huruf 'k' atau 'q' ditemukan, atau false jika tidak ditemukan.
 */
+package Latihan7;
 
 import java.util.Scanner;
 

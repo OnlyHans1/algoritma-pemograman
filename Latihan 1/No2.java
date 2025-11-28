@@ -1,4 +1,4 @@
-package Tugas1;
+package Latihan1;
 
 public class No2 {
     public static void main(String[] args) {

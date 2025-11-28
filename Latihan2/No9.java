@@ -2,6 +2,7 @@
    Masukkan berupa bilangan real yang menyatakan x
    Keluaran berupa nilai y
 */
+package Latihan2;
 
 import java.util.Scanner;
 

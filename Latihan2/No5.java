@@ -8,7 +8,7 @@
  
  Gunakan variabel yang sesuai untuk menyimpan data nama dan usia!
 */
-
+package Latihan2;
 
 import java.util.Scanner;
 

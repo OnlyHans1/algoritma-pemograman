@@ -3,6 +3,7 @@
     Masukan berupa pasangan dua bilangan dalam beberapa baris diakhiri bilangan 0 0 sebagai sentinel. 
     Keluaran berupa penjumlahan bilangan-bilangan yang memenuhi kondisi, misalnya 1 2 akan dijumlahkan karena 1 ganjil dan 2 genap, 2 1 tidak akan dijumlahkan karena 2 bukan ganjil dan 1 bukan bilangan genap, 1 3 tidak akan dijumlahkan karena 1 ganjil akan tetapi 3 bukan genap.
 */
+package Latihan7;
 
 import java.util.Scanner;
 

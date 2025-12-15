@@ -1,3 +1,5 @@
+package Latihan7;
+
 /*
     Buatlah program dalam bahasa Java untuk menghitung jumlah pertemuan rahasia antara dua orang mata-mata dalam setahun. Mereka akan bertemu setiap hari kelipatan x atau kelipatan y, dengan x dan y adalah bilangan bulat positif. Jumlah hari dalam setahun diasumsikan 365, sehingga hari bernilai dari 1 hingga 365. 
     Masukan berupa bilangan bulat positif x dan y.

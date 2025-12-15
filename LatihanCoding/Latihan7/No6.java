@@ -1,3 +1,5 @@
+package Latihan7;
+
 /*
     Buatlah program dalam bahasa Java untuk menjumlahkan bilangan-bilangan genap kelipatan 4 dengan menggunakan struktur perulangan while. 
     Masukan terdiri dari serangkaian baris bilangan bulat. Pembacaan akan berhenti saat terbaca input bilangan negatif, dan bilangan negatif itu tidak diikutkan dalam perhitungan.
